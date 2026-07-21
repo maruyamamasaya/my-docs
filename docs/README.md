@@ -1,19 +1,47 @@
-### 📚【改良版：Wiki用 大項目カテゴリ（テクノロジー拡張版）】
+# 📚 メモる図書館
 
-| No. | 大項目名               |
-| --- | ------------------ |
-| 01  | [[🌟人文・社会]]        |
-| 02  | [[🌟ビジネス・経済]]      |
-| 03  | [[🌟テクノロジー・情報科学]]  |
-| 04  | [[🌟自然科学]]         |
-| 05  | [[🌟医学・健康]]        |
-| 06  | [[🌟芸術・表現]]        |
-| 07  | [[🌟言語・コミュニケーション]] |
-| 08  | [[🌟生活・カルチャー]]     |
-| 09  | [[🌟ナレッジ管理]]       |
+<div class="library-hero">
+  <p class="library-hero__eyebrow">読書メモ・知識ノートを横断する個人Wiki</p>
+  <h1>タイトルもキーワードも、すぐ探せる本棚。</h1>
+  <p>
+    サイドバー上部の検索欄から、本のタイトル・著者名・気になる言葉を入力すると、
+    ノート本文までまとめて全文検索できます。カテゴリカードからは本棚を眺めるように読み進められます。
+  </p>
+</div>
+
+<div class="feature-grid">
+  <section class="feature-card">
+    <div class="feature-card__icon">🔍</div>
+    <h3>全文検索</h3>
+    <p>本のタイトルや本文中のキーワードで、読書メモ・知識ノートを横断検索できます。</p>
+  </section>
+  <section class="feature-card">
+    <div class="feature-card__icon">📚</div>
+    <h3>カテゴリカード</h3>
+    <p>人文・社会、テクノロジー、芸術などの本棚から、興味のある領域へすぐ移動できます。</p>
+  </section>
+  <section class="feature-card">
+    <div class="feature-card__icon">📱</div>
+    <h3>スマホ対応</h3>
+    <p>小さな画面でも読みやすい余白・文字サイズ・カード配置に調整しています。</p>
+  </section>
+</div>
+
+## 📚 カテゴリ本棚
+
+<div class="category-grid">
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/01/%F0%9F%8C%9F%E4%BA%BA%E6%96%87%E3%83%BB%E7%A4%BE%E4%BC%9A"><span>01</span><strong>🌟人文・社会</strong><small>哲学・思想・歴史・政治</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/02/%F0%9F%8C%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%BB%E7%B5%8C%E6%B8%88"><span>02</span><strong>🌟ビジネス・経済</strong><small>経営・お金・働き方</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/03/%F0%9F%8C%9F%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%BB%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6"><span>03</span><strong>🌟テクノロジー・情報科学</strong><small>AI・システム・情報設計</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/04/%F0%9F%8C%9F%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6"><span>04</span><strong>🌟自然科学</strong><small>宇宙・物理・生命・自然</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/05/%F0%9F%8C%9F%E5%8C%BB%E5%AD%A6%E3%83%BB%E5%81%A5%E5%BA%B7"><span>05</span><strong>🌟医学・健康</strong><small>睡眠・休養・身体知</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/06/%F0%9F%8C%9F%E8%8A%B8%E8%A1%93%E3%83%BB%E8%A1%A8%E7%8F%BE"><span>06</span><strong>🌟芸術・表現</strong><small>美術・建築・文学・創作</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/07/%F0%9F%8C%9F%E8%A8%80%E8%AA%9E%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"><span>07</span><strong>🌟言語・コミュニケーション</strong><small>語彙・対話・表現</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/08/%F0%9F%8C%9F%E7%94%9F%E6%B4%BB%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC"><span>08</span><strong>🌟生活・カルチャー</strong><small>食・暮らし・文化</small></a>
+  <a class="category-card" href="#/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BCBOX/999_%F0%9F%8C%9F%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/09/%F0%9F%8C%9F%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E7%AE%A1%E7%90%86"><span>09</span><strong>🌟ナレッジ管理</strong><small>分類・メモ・知識整理</small></a>
+</div>
 
 ---
-
 ### 🌟Pick UP🌟
 
 #### ◾︎読書メモ
